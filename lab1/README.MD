@@ -1,1 +1,1 @@
-Выполните node billing.js
+Зайдите в папку с файлом data.csv и выполните node billing.js
